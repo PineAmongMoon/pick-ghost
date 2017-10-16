@@ -14,7 +14,7 @@ The program is through the simulation to check whether the game is fair when the
 
 ## Other
 
-The source code is in `./pick-ghost`. The setting of poker cards is in the member function `cards::reset()` in  `./soruce/cards.cpp`. You can change the setting to check other circumstances. 
+The source code is in `./soruce`. The setting of poker cards is in the member function `cards::reset()` in  `./soruce/cards.cpp`. You can change the setting to check other circumstances. 
 
 ***
 
@@ -32,5 +32,5 @@ The source code is in `./pick-ghost`. The setting of poker cards is in the membe
 
 ## 其他
 
-源代码在`./pick-ghost`中。 扑克牌的设置是在`./soruce/cards.cpp`中的成员函数 `cards::reset()`中。 您可以更改设置以检查其他情况。
+源代码在`./soruce`中。 扑克牌的设置是在`./soruce/cards.cpp`中的成员函数 `cards::reset()`中。 您可以更改设置以检查其他情况。
 
