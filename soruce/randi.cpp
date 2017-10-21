@@ -3,7 +3,7 @@
 //  pick-ghost
 //
 //  Created by Ju Yuanmao on 2017/7/16.
-//  Copyright © 2017年 Ju Yuanmao. All rights reserved.
+//  Copyleft
 //
 
 #include <cstdlib>
