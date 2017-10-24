@@ -42,8 +42,8 @@ void player::push (char card) {
 
 char player::pop() {
     if (cards_.empty()) {
-        cout << "The set named 'cards' of calss 'player' has been empty!\b\n";
-        exit(1);
+        cerr << "The set named 'cards' of calss 'player' has been empty!\b\n";
+        exit(-1);
     }
     auto it = cards_.begin();
     int n = randi(0, int(cards_.size()));
