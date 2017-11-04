@@ -42,7 +42,7 @@ void player::push (char card) {
 
 char player::pop() {
     if (cards_.empty()) {
-        cerr << "The set named 'cards' of calss 'player' has been empty!\b\n";
+        cout << "The set named 'cards' of calss 'player' has been empty!\b\n";
         exit(-1);
     }
     auto it = cards_.begin();
